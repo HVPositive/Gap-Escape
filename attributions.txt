@@ -1,0 +1,34 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+1) I've completed this statement by myself entirely.
+
+
+//	Place your attributions below:
+//
+//	Example:
+//
+//	https://assetstore.unity.com/packages/tools/utilities/sectr-core-15240
+//	Used the “SimpleDoor” prefab from this package. This prefab has a door which has some functions that allow it to be opened and closed. A hallway prefab was also used.
+//
+//	https://assetstore.unity.com/packages/2d/textures-materials/10-texture-sets-industrial-02-17624
+//	One of the textures was used for the floor.
+//
+//	https://assetstore.unity.com/packages/3d/props/industrial/bulk-container-110387
+//	Used textures and mesh from this package to apply to my cubes objects.
+//
+//
+//	https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-pbr-props-118783
+//	Used texture from this package for my Portholes and Springs.
+//
+//	https://assetstore.unity.com/packages/audio/music/casual-puzzle-world-sounds-free-package-123537
+//	Used sounds files from this clips to add sound effects to game interactions such as gap traversal, spring bouncing and clearing levels.
+//
+//	
+//	Retaining speed while changing direction (in Pickup.cs)
+//	https://forum.unity.com/threads/change-velocity-direction-and-not-magnatude.368272/
+
+
+
+
+
+
